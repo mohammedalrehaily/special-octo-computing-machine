@@ -14,6 +14,13 @@ I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographi
 I have practical experience in spatial data digitization, geodatabase management, metadata creation, and topology analysis. I'm continuously developing my technical skills and exploring new opportunities in the geospatial industry.
 
 🛠️ Technical Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E8B57?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS Pro"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-064E3B?style=for-the-badge&logoColor=white" alt="Remote Sensing"/>
+</p>
 
 GIS Software: ArcGIS Pro, ArcMap, QGIS
 
