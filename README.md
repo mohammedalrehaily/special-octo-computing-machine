@@ -1,4 +1,11 @@
 Hi, I'm Mohammed Alrehaily 👋
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064e3b,100:39ff14&height=200&section=header&text=Mohammed%20Alrehaily&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    width="100%"
+    alt="Mohammed Alrehaily GIS Profile"
+  />
+</div>
 
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
