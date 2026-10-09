@@ -1,6 +1,6 @@
 Hi, I'm Mohammed Alrehaily 👋
 
-GIS Specialist | Remote Sensing | Spatial Data Analysis
+GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
 I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis.
 
@@ -36,9 +36,8 @@ SQL and Python for Geospatial Applications
 
 SQL and Database Design
 
-Python for GIS Automation
-
-Advanced Spatial Analysis
+python 
+arc py
 
 📂 Featured Projects
 
