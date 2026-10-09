@@ -1,13 +1,53 @@
-<img src="header.png" alt="Hi, I'm Michael – Senior Vue.js & Nuxt freelancer for complex web apps">
-<h2>🧑‍💻 Portfolio</h2>
-<p>Senior Vue.js &amp; Nuxt freelancer for complex web apps. Check out my projects, services and how I can help your team.</p>
-<p><a href="https://mokkapps.de" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/Visit%20mokkapps.de-00342F?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Visit my portfolio" height="32"></a></p>
-<h2>🚀 Nuxt SaaS Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="nuxtstarterkit.png" alt="Nuxt SaaS Starter Kit – Ship your Nuxt SaaS in days, not months" width="100%">
-    </a>
-<h2>📰 Vue Digest</h2>
-<p>Your daily dose of Vue.js &amp; Nuxt: latest news, ecosystem releases &amp; conferences.</p>
-  <a href="https://vuedigest.com" target="_blank" rel="noreferrer nofollow">
-      <img src="vuedigest.png" alt="Vue Digest – Your daily dose of Vue.js & Nuxt news" width="100%">
-    </a>
+Hi, I'm Mohammed Alrehaily 👋
+
+GIS Specialist | Remote Sensing | Spatial Data Analysis
+
+I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis.
+
+I have practical experience in spatial data digitization, geodatabase management, metadata creation, and topology analysis. I'm continuously developing my technical skills and exploring new opportunities in the geospatial industry.
+
+🛠️ Technical Skills
+
+GIS Software: ArcGIS Pro, ArcMap, QGIS
+
+Remote Sensing: Satellite Image Processing, Image Classification, Change Detection
+
+Spatial Data: Digitization, Geodatabases, Metadata, Topology Analysis
+
+Databases: SQL, Microsoft SQL Server
+
+Programming: Python (Beginner)
+
+Other Tools: Google Earth, Microsoft Office
+
+📌 Areas of Interest
+
+Geographic Information Systems (GIS)
+
+Remote Sensing and Satellite Imagery
+
+Spatial Database Management
+
+Geospatial Data Quality and Analysis
+
+SQL and Python for Geospatial Applications
+
+🚀 Currently Learning
+
+SQL and Database Design
+
+Python for GIS Automation
+
+Advanced Spatial Analysis
+
+📂 Featured Projects
+
+Coming soon! I'm working on building a portfolio of GIS, remote sensing, and spatial database projects.
+
+📫 Connect With Me
+
+LinkedIn: Add your LinkedIn URL
+
+Email: Add your professional email
+
+Always learning, mapping, and exploring the world through geospatial technology. 🌍
