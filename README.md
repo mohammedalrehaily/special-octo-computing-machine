@@ -1,57 +1,12 @@
 Hi, I'm Mohammed Alrehaily 👋
+<p align="center">
+  <img src="mohammed_gis_portfolio.png"
+       alt="Mohammed Alrehaily GIS Portfolio"
+       width="100%">
+</p>
 
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Mohammed Alrehaily | GIS Portfolio</title>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+  
 
-    body {
-      margin: 0;
-      background: #03020a;
-      min-height: 100vh;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-    }
-
-    img {
-      display: block;
-      width: 100%;
-      height: auto;
-    }
-  </style>
-</head>
-<body>
-  <img
-    src="اmohammed_gis_portfolio.png"
-    alt="Mohammed Alrehaily GIS Portfolio"
-  >
-</body>
-</html>
-    GIS &nbsp; | &nbsp;
-    REMOTE SENSING &nbsp; | &nbsp;
-    SPATIAL ANALYSIS &nbsp; | &nbsp;
-    DATA ANALYSIS &nbsp; | &nbsp;
-    PYTHON &nbsp; | &nbsp; SQL
-  </h3>
-
-  <p>
-    Geographic Information Systems • Spatial Data • Mapping
-  </p>
-
-  <a href="https://www.google.com/earth/">
-    <img src="https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth" />
-  </a>
-  <img src="https://img.shields.io/badge/ArcGIS%20Pro-6A35D4?style=for-the-badge" alt="ArcGIS Pro" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/Python-7B2CFF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge" alt="SQL" />
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
 I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis. I’m also interested in programming, application development, process automation, and data analysis, exploring how technology and data can be leveraged to support business operations, improve efficiency, and enhance decision-making.
