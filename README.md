@@ -29,7 +29,7 @@ Hi, I'm Mohammed Alrehaily 👋
 </head>
 <body>
   <img
-    src="اسم-الصورة.png"
+    src="اmohammed_gis_portfolio.png"
     alt="Mohammed Alrehaily GIS Portfolio"
   >
 </body>
