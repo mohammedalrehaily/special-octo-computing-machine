@@ -2,15 +2,33 @@ Hi, I'm Mohammed Alrehaily 👋
 
 <div align="center">
   <img
-    src="YOUR_CUSTOM_GIS_BACKGROUND_URL"
+    src="YOUR_BANNER_IMAGE_URL"
+    alt="MOHAMMED ALREHAILY - GIS & Data Analysis"
     width="100%"
-    alt="GIS Remote Sensing and Data Analysis Background"
   />
-  <h1>Mohammed Alrehaily</h1>
-  <p>
-    GIS · Remote Sensing · Python · SQL · Data Analysis
-  </p>
 </div>
+
+<div align="center">
+
+  <h3>
+    GIS &nbsp; | &nbsp;
+    REMOTE SENSING &nbsp; | &nbsp;
+    SPATIAL ANALYSIS &nbsp; | &nbsp;
+    DATA ANALYSIS &nbsp; | &nbsp;
+    PYTHON &nbsp; | &nbsp; SQL
+  </h3>
+
+  <p>
+    Geographic Information Systems • Spatial Data • Mapping
+  </p>
+
+  <a href="https://www.google.com/earth/">
+    <img src="https://img.shields.io/badge/Google%20Earth-4285F4?style=for-the-badge&logo=googleearth&logoColor=white" alt="Google Earth" />
+  </a>
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-6A35D4?style=for-the-badge" alt="ArcGIS Pro" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Python-7B2CFF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-8A2BE2?style=for-the-badge" alt="SQL" />
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
 I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis. I’m also interested in programming, application development, process automation, and data analysis, exploring how technology and data can be leveraged to support business operations, improve efficiency, and enhance decision-making.
