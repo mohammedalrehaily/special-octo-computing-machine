@@ -20,8 +20,7 @@ GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
 I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis. I’m also interested in programming, application development, process automation, and data analysis, exploring how technology and data can be leveraged to support business operations, improve efficiency, and enhance decision-making.
 
-I have practical experience in spatial data digitization, geodatabase management, metadata creation, and topology analysis. I'm continuously developing my technical skills and exploring new opportunities in the geospatial industry.
-
+I have practical experience in spatial data digitization, geodatabase management, and topology analysis. I continuously strive to develop my SQL and Python skills and integrate them into workflows and Geographic Information Systems (GIS).
 🛠️ Technical Skills
 <p align="center">
   <img src="https://img.shields.io/badge/ArcGIS%20Pro-2E8B57?style=for-the-badge&logo=esri&logoColor=white" alt="ArcGIS Pro"/>
