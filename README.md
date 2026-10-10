@@ -1,12 +1,11 @@
 Hi, I'm Mohammed Alrehaily 👋
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:064e3b,100:39ff14&height=200&section=header&text=Mohammed%20Alrehaily&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:064e3b,100:16a34a&height=240&section=header&text=Mohammed%20Alrehaily&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GIS%20%7C%20Remote%20Sensing%20%7C%20Data%20Analysis%20%7C%20Python%20%7C%20SQL&descSize=14&descAlignY=55&descColor=bbf7d0"
     width="100%"
-    alt="Mohammed Alrehaily GIS Profile"
+    alt="Mohammed Alrehaily | GIS, Remote Sensing, Data Analysis and Programming"
   />
 </div>
-
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
 I'm a Saudi GIS graduate from Umm Al-Qura University, passionate about Geographic Information Systems, remote sensing, and geospatial data analysis. I’m also interested in programming, application development, process automation, and data analysis, exploring how technology and data can be leveraged to support business operations, improve efficiency, and enhance decision-making.
