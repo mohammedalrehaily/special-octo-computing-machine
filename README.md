@@ -1,10 +1,15 @@
 Hi, I'm Mohammed Alrehaily 👋
+
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:064e3b,100:16a34a&height=240&section=header&text=Mohammed%20Alrehaily&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GIS%20%7C%20Remote%20Sensing%20%7C%20Data%20Analysis%20%7C%20Python%20%7C%20SQL&descSize=14&descAlignY=55&descColor=bbf7d0"
+    src="YOUR_CUSTOM_GIS_BACKGROUND_URL"
     width="100%"
-    alt="Mohammed Alrehaily | GIS, Remote Sensing, Data Analysis and Programming"
+    alt="GIS Remote Sensing and Data Analysis Background"
   />
+  <h1>Mohammed Alrehaily</h1>
+  <p>
+    GIS · Remote Sensing · Python · SQL · Data Analysis
+  </p>
 </div>
 GIS Specialist & Remote Sensing | Spatial Data Analysis| DATA Analysis
 
