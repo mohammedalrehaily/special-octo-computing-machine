@@ -1,16 +1,39 @@
 Hi, I'm Mohammed Alrehaily 👋
 
-<div align="center">
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mohammed Alrehaily | GIS Portfolio</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #03020a;
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
   <img
-    src="YOUR_BANNER_IMAGE_URL"
-    alt="MOHAMMED ALREHAILY - GIS & Data Analysis"
-    width="100%"
-  />
-</div>
-
-<div align="center">
-
-  <h3>
+    src="اسم-الصورة.png"
+    alt="Mohammed Alrehaily GIS Portfolio"
+  >
+</body>
+</html>
     GIS &nbsp; | &nbsp;
     REMOTE SENSING &nbsp; | &nbsp;
     SPATIAL ANALYSIS &nbsp; | &nbsp;
